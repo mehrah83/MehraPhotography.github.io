@@ -1,0 +1,102 @@
+/* Header Section */
+header{
+    height: 140vh;
+}
+
+/*Navigation Section */
+.navbar{
+    flex-direction: column;
+    height: 275px;
+    width: 100vw;
+}
+
+.navbar .logo{
+    font-size: 1.5rem;
+}
+
+.navbar .menu{
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* Navigation : Icon Section */
+.navbar .icon{
+margin-top: 3px;
+}
+
+.navbar .icon i{
+    font-size: 15px;
+}
+
+.navbar .icon a{
+    padding: 0px 10px;
+}
+
+
+/* h-text section */
+.h-text{
+    margin-right: 65px;
+    margin-top: 150px;
+}
+
+
+/* filter-gallery section */
+.portfolio-item {
+right: 52px;
+}
+
+
+/* Member Section */
+#mimage{
+    width: 100%;
+}
+
+
+/* Footer Section */
+footer{
+    width: 100vh;
+}
+
+.newsletter{
+    flex-direction: column;
+    padding: 0px;
+    width: 67%;
+    position: relative;
+    right: 60px;
+}
+
+.newsletter h2{
+    text-align: center;
+}
+
+.newsletter p{
+    text-align: center;
+}
+
+#f-contact{
+flex-direction: column;
+}
+
+.info h1{
+margin-left: 15px;
+}
+
+.info p{
+width: 50%;
+margin-left: 15px;
+}
+
+
+.use{
+margin-right: 265px;
+}
+
+.detail{
+    margin-right: 315px;
+}
+
+.help{
+    margin-right: 265px;
+}
+
